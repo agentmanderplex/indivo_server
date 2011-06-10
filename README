@@ -1,4 +1,5 @@
-This Branch is for the development of a revamped Audit interface
+This Branch is for the development of dynamically pluggable Document Types,
+to simplify the process of adding new types to Indivo's core set of schemas.
 
 All source code is licensed under GPLv3.
 
